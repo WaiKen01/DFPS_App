@@ -6,7 +6,7 @@ Users are welcome to download this system and use it for your own benefit.
 
 ### Steps to download and use this system
 1. Download the application from https://github.com/WaiKen01/DFPS_App
-2. Locate the downloaded folder
+2. Locate the downloaded folder and extract the folder from zip
 3. Double click on the DFPS.exe
 4. Allow to run (If prompted)
 
