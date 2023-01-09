@@ -1,5 +1,23 @@
-# DFPS_App
- DFPS can be used to protect digital file such as images, word documents, videos and audio files.
+# Digital File Protection System (DFPS)
+
+DFPS is a software that secure digital file through various method such as encryption and steganography and it is built to run on Windows environment.
+
+## For developers
+Developers are welcome to refer, download and modify this system as it is an open source software. This system is developed using Windows Forms of .NET framework.
+
+### To modify/continue development
+1. Download and install Visual Studio 2019 or newer version.
+2. Install .NET Desktop Development workload in Visual Studio. If the machine already has installed Visual Studio, user could install NET Desktop Development workload through Visual Studio Installer.
+3. Access to the remote repository at https://github.com/WaiKen01/DFPS.
+4. Click on the green color Code button.
+5. Click to Download Zip.
+6. Locate the downloaded zip file in local directory.
+7. Extract the whole content from the downloaded zip.
+8. Launch installed version of Visual Studio.
+9. Select open a project or solution.
+10. Locate the extracted file from downloaded zip.
+11. Select DFPS.sln and click open.
+12. Wait for the project to be opened and the source code could be modified.
 
 ## For users
 Users are welcome to download this system and use it for your own benefit. 
